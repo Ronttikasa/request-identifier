@@ -7,3 +7,6 @@ I aimed to build a working solution within the time constraints, but perhaps the
 
 However I'm pretty happy with my implementation and I didn't have to make any major compromises to get the task done.
 
+#### Running the program
+
+Run _client.py_ to start the program.
